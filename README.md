@@ -1,7 +1,7 @@
-### Hi there, I'm Fadhlil 👋
+### Hi there, Fadhlil Azhim Firmansyah 👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/FadhlilAzFi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/FadhlilAzFi/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/FadhlilAzFi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/FadhlilAzFi)
 
 ## I'm a Student, and Gamer
 - 🌎 +62 📍 Pandeglang, Banten
@@ -10,13 +10,13 @@
 - 🗾 OTAKU
 
 ### Connect with me:
+[<img align="left" alt="FadhlilAzFi | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook] 
+[<img align="left" alt="FadhlilAzFi | YouTube"  src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube] 
+[<img align="left" alt="FadhlilAzFi | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="FadhlilAzFi | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="FadhlilAzFi | Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />][steam]
 
-[<img align="left" alt="FadhlilAzFi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
-[<img align="left" alt="FadhlilAzFi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="FadhlilAzFi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="FadhlilAzFi | Steam" width="22px" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/steam_black_logo_icon_147078.png" />][steam]
-
-
+[facebook]: https://www.facebook.com/fadhlilazhimfirmansyah/
 [steam]: https://steamcommunity.com/id/fadhlilaf/
 [twitter]: https://twitter.com/FadhlilAzFi
 [youtube]: https://www.youtube.com/channel/UCpsLwMFxtpi9RJPPIJbgKTA
