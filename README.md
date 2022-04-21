@@ -1,4 +1,4 @@
-### Hi there, Fadhli Here 👋
+### Hi there, Fadhlil Here 👋
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/FadhlilAzFi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/FadhlilAzFi)
