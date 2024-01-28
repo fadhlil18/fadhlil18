@@ -1,7 +1,7 @@
 ### Hi there, Fadhlil Here 👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/FadhlilAzFi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/FadhlilAzFi)
+[![Twitter Follow](https://img.shields.io/twitter/follow/FadhlilAzFi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/FadhlilAzhimF)
 
 ### Connect with me:
 [<img align="left" alt="FadhlilAzFi | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook] 
