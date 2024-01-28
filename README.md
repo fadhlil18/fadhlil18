@@ -3,12 +3,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/FadhlilAzFi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/FadhlilAzFi)
 
-## I'm a Student, and Gamer
-- 🌎 +62 📍 Pandeglang, Banten
-- 📖 Telkom University
-- 🎮 Gamer
-- 🗾 OTAKU
-
 ### Connect with me:
 [<img align="left" alt="FadhlilAzFi | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook] 
 [<img align="left" alt="FadhlilAzFi | YouTube"  src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube] 
