@@ -11,7 +11,7 @@
 [<img align="left" alt="FadhlilAzFi | Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />][steam]
 
 [facebook]: https://www.facebook.com/fadhlilazhimfirmansyah/
-[steam]: https://steamcommunity.com/id/fadhlilaf/
-[twitter]: https://twitter.com/FadhlilAzFi
-[youtube]: https://www.youtube.com/channel/UCpsLwMFxtpi9RJPPIJbgKTA
+[steam]: https://steamcommunity.com/id/razh18/
+[twitter]: https://twitter.com/FadhlilAzhimF
+[youtube]: https://www.youtube.com/@fadhlilaf
 [instagram]: https://www.instagram.com/azhim18/
